@@ -1,4 +1,6 @@
 import React from 'react';
+import './style.css';
+
 
 const VideoListItem = ({video, onVideoSelect}) =>{    
     // const video = props.video;
